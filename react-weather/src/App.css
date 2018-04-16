@@ -1,0 +1,465 @@
+.all {
+  width: 100%;
+  height: 1050px;
+  
+}
+.all2{
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+.all3{
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+.weather #hero{
+  width: 375px;
+    height: 660px;
+    margin-left: 270px;
+    margin-top: 60px;
+    background-image: url(http://media.idownloadblog.com/wp-content/uploads/2015/12/Christmas-Scenery-iPhone-Wallpaper-AR7-576x1024.jpeg);
+    float: left;
+}
+.weather1{
+  width: 375px;
+  height: 210px;
+
+}
+.city{
+  width: 375px;
+  height: 80px;
+}
+.city1 {
+  text-align: center;
+  padding-top: 60px;
+  font-size: 22pt;
+  color: white;
+}
+.city2{
+  width: 375px;
+  height: 100px;
+}
+.weat{
+  text-align: center;
+    color: white;
+}
+.a {
+  font-size: 60pt;
+}
+
+.temp{
+  width: 150px;
+  height: 50px;
+  float: left;
+}
+.temp2{
+  width: 100px;
+  height: 50px;
+  float: left;
+}
+.temp1{
+  font-size: 60pt;
+  padding-left: 142px;
+  color: white;
+}
+.temp3{
+  padding-left: 80px;
+    font-size: 25pt;
+    color: white;
+}
+.weather2{
+  width: 375px;
+  height: 159px;
+}
+.day {
+  width: 375px;
+  height: 50px;
+}
+.day1{
+  width: 50%;
+  height: 50px;
+  float: left;
+}
+.day2{
+  width: 50%;
+  height: 50px;
+  float: left;
+}
+.today {
+    padding-left: 10px;
+    font-size: 11pt;
+    font-weight: bold;
+    color: white;
+}
+.days{
+ 
+    font-size: 14pt;
+    color: white;
+    padding-left: 18px;
+    
+}
+.days1{
+   padding-left: 105px;
+    padding-top: 4px;
+    color: white;
+    font-size: 13pt;
+}
+.today2{
+  padding-left: 23px;
+  color: #ddd;
+}
+.day3{
+  width: 375px;
+  height: 109px;
+  border-top: 0.2px solid silver;
+  border-bottom: 0.2px solid silver;
+  overflow: hidden;
+}
+.day31{
+  width: 375px;
+  height: 109px;
+  overflow-x: auto;
+  padding-bottom: 15px;
+}
+.day31:hover{
+  overflow-x: auto;
+  background-image: url(https://cdn.images.express.co.uk/img/dynamic/galleries/x701/178728.jpg)
+}
+
+.now {
+  width: 375px;
+  height: 25px;
+}
+.now2{
+  width: 66px;
+    height: 30px;
+    float: left;
+    font-size: 11pt;
+}
+.now3{
+  width: 309px;
+  height: 27px;
+  float: left;
+  padding-top: 14px;
+}
+.sun{
+  width: 749px;
+  height: 30px;
+}
+.tempp{
+  width: 375px;
+  height: 35px;
+}
+.days2{
+  font-weight: bold;
+  color: white;
+  padding-left: 13px;
+}
+.today3{
+  font-weight: 100;
+    padding-left: 25px;
+    color: white;
+    font-size: 11pt;
+}
+.sun1{
+  width: 10%;
+  height: 30px;
+  float: left;
+  padding-left: 64px;
+}
+.sun2{
+  width: 90%;
+  height: 14px;
+  float: left;
+  padding-left: 64px;
+}
+.sun3{
+  width: 130px;
+  height: 20px;
+  float: left;
+  padding-top: 6px;
+  padding-left: 5px;
+}
+.sun4{
+  width: 55px;
+  height: 20px;
+  float: left;
+  padding-top: 5px;
+}
+.sun5{
+  width: 460px;
+  height: 20px;
+  float: left;
+  padding-top: 7px;
+}
+
+.mater{
+  padding-left: 4px;
+}
+.fa-soundcloud{
+  color: white;
+  padding-left: 22px;
+  font-size: 15pt;
+}
+.fa-moon-o{
+  color: white;
+  padding-left: 25px;
+  font-size: 13pt;
+}
+.fa-cloud{
+  color: white;
+  padding-left: 22px;
+  font-size: 13pt;
+}
+.material-icons{
+  color: yellow;
+  padding-left: 22px;
+  font-size: 14pt;
+}
+.tempp1{
+  width: 66px;
+  height: 30px;
+  float: left;
+}
+.tempp2{
+  width: 309px;
+  height: 30px;
+  float: left;
+}
+.write{
+  font-size: 13pt;
+    padding-left: 23px;
+    color: white;
+    font-weight: bold;
+    padding-top: 1px;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.write2{
+  padding-left: 24px;
+  padding-top: 5px;
+  color: white;
+}
+.write3{
+  padding-left: 17px;
+}
+.write4{
+  padding-left: 28px;
+}
+.weather3{
+  width: 375px;
+  height: 220px;
+  border-bottom: 0.2px solid silver;
+  overflow: hidden;
+}
+.stuff{
+  width: 375px;
+  height: 220px;
+  padding-right: 20px; 
+  overflow-y: scroll;
+}
+.stuff:hover {
+  background-image: url(https://cdn.images.express.co.uk/img/dynamic/galleries/x701/178728.jpg)
+}
+.stuff1{
+  width: 150px;
+  height: 210px;
+  float: left;
+}
+.stuff2{
+  width: 58px;
+  height: 210px;
+  float: left;
+}
+.stuff3{
+  width: 150px;
+  height: 210px;
+  float: left;
+}
+.dayy{
+  padding-left: 15px;
+  font-size: 12pt;
+  color: white;
+}
+.fa-certificate{
+  color: yellow;
+  padding-top: 16px;
+  position: relative;
+  left: 30px;
+}
+.fa-cloud-download{
+  padding-top: 5px;
+  position: absolute;
+  color: white;
+  left: 6px;
+}
+.fa-sun-o{
+  padding-top: 18px;
+  padding-left: 27px;
+  position: relative;
+  color: yellow;
+}
+.fa-cloud-upload{
+  position: absolute;
+  position: absolute;
+    left: 35px;
+    top: 22px;
+    color: white;
+}
+.fa-tint{
+  padding-top: 18px;
+  padding-left: 29px;
+  position: relative;
+  color: #00009B;
+}
+.fa-jsfiddle{
+  position: absolute;
+  position: absolute;
+    left: 35px;
+    top: 22px;
+    color: silver;
+}
+.mon{
+  padding-left: 100px;
+    font-size: 12pt;
+    color: white;
+    padding-top: 1px;
+    
+}
+.vid{
+  padding-left: 20px;
+    color: #ddd;
+}
+.stuff4{
+  width: 375px;
+  height: 90px;
+  border-top: 0.2px solid #ddd;
+  border-bottom: 0.2px solid #ddd;
+}
+.intro{
+  color: white;
+  padding-left: 14px;
+}
+.stuff5{
+  width: 375px;
+  height: 50px;
+  border-bottom: 0.2px solid #ddd;
+}
+.introduct{
+  width: 50%;
+  height: 50px;
+  float: left;
+}
+.introduct2{
+  width: 50%;
+  height: 50px;
+  float: left;
+}
+.sunny{
+  font-size: 8pt;
+    color: silver;
+    padding-left: 15px;
+}
+.time{
+  font-size: 13pt;
+  color: white;
+}
+.stuff6{
+  width: 375px;
+  height: 50px;
+  border-bottom: 0.2px solid #ddd;
+}
+.weather4{
+  width: 375px;
+  height: 51px;
+}
+.image{
+  width: 50%;
+  height: 51px;
+  float: left;
+}
+.menu{
+  width: 50%;
+  height: 51px;
+  float: left;
+}
+.img2{
+  width: 40px;
+    height: 42px;
+    padding-left: 15px;
+    padding-top: 4px;
+}
+.click{
+  width: 35px;
+  height: 31px;
+  margin-top: 10px;
+  margin-left: 141px;
+  float: left;
+  border: none ;
+}
+.click2{
+  width: 300px;
+  height: 300px;
+  float: right;
+}
+.box{
+  width: 300px;
+  margin-top:220px;
+  height: 500px;
+  background-image: url(https://cdn.images.express.co.uk/img/dynamic/galleries/x701/178728.jpg);
+
+}
+.box1{
+  width: 300px;
+  height: 70px;
+  border-bottom: 1px solid white;
+  /* background-image: url("https://msmobile.com.vn/upload_images/images/hinh-nen-dep-cho-laptop-1366x768-1.jpg"); */
+}
+.box2{
+  width: 300px;
+  height: 70px;
+  border-bottom: 1px solid white;
+  /* background-image: url("https://msmobile.com.vn/upload_images/images/hinh-nen-dep-cho-laptop-1366x768-1.jpg"); */
+}
+.tp1{
+  width: 50%;
+  height: 70px;
+  float: left;
+}
+.tp2{
+  width: 50%;
+  height: 70px;
+  float: left;
+}
+.times{
+  color: white;
+    font-size: 10pt;
+    padding-left: 10px;
+}
+.ct{
+  color: white;
+    font-size: 14pt;
+    padding-left: 10px;
+}
+.nd{
+  font-size: 22pt;
+    padding-left: 95px;
+    color: white;
+}
+.fa-align-justify{
+  color: #ddd;
+    font-size: 17pt;
+    padding-left: 12px;
+    padding-top: 4px;
+}
+.nd1{
+  color: white;
+    font-size: 14pt;
+    padding-left: 6px;
+}
+.nd2 {
+  color: #ddd;
+}
