@@ -23,7 +23,6 @@ toggleDiv = () => {
   render() {
     return (
       <div className="all">
-      
       <div className="all2">
       <div className="weather">
         <section id="hero">
@@ -32,12 +31,12 @@ toggleDiv = () => {
          <Weather3/>
          <div className="weather4">
                 <div className="image">
-                    <a><img src="http://files.softicons.com/download/system-icons/windows-8-metro-invert-icons-by-dakirby309/ico/Internet%20Shortcuts%20&%20Manufacturers/The%20Weather%20Channel.ico" className="img2" /></a>
+                    <a href="https://weather.com/">
+                        <img src="http://streetfightmagcom.b.presscdn.com/wp-content/uploads/weather_channel.png" className="img2" /></a>
                 </div>
                 <div className="menu">
                 <div  className="click" onClick={ this.toggleDiv }>
                     <a><i className="fa fa-align-justify"></i>
-                    {/* <span>{ this.state.show && <Box/> } </span> */}
                     </a>
                     </div>
                 
@@ -47,7 +46,7 @@ toggleDiv = () => {
       </div>
       </div>
       <div className="all3">
-       <span>{ this.state.show && <Box/> } </span>
+       <span className="alo">{ this.state.show && <Box/> } </span>
       </div>
       </div>
 
